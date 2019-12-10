@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.LinearSmoothScroller
 import androidx.recyclerview.widget.RecyclerView
 import java.lang.Exception
 
-class CustomRecyclerView : RecyclerView {
+open class CustomRecyclerView : RecyclerView {
 
     companion object {
         private const val HEAD_VIEW_TYPE = 3000

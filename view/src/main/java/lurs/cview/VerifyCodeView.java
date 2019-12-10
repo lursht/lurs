@@ -21,8 +21,6 @@ import androidx.annotation.ColorInt;
 import androidx.annotation.DrawableRes;
 import androidx.annotation.NonNull;
 
-import com.cview.R;
-
 /**
  * 自定义短信认证码控件
  */

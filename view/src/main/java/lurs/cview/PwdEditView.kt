@@ -8,7 +8,6 @@ import android.util.AttributeSet
 import android.view.View
 import android.widget.EditText
 import android.widget.ImageView
-import com.cview.R
 
 class PwdEditView : EditText {
 
